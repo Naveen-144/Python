@@ -39,5 +39,3 @@ print(a.split(",")) #we can split a string
 d="don" 
 
 print(name+" "+d)
-b=d[::-1]
-print(b)
